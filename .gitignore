@@ -1,0 +1,6 @@
+.env
+.electricity_prediction_model.pkl
+.electricity_demand_model_rf.pkl
+*.pkl
+*.joblib
+*.h5
